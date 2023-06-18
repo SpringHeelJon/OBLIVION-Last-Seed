@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Last Seed",
+      "description": "Last Seed is a mod list that aims to preserve the general feel of the original Oblivion but with much improved graphics and performance. As well as fixing a raft of bugs and balancing the games mechanics. This list is for you if you have never played the game before or have played the vanilla experience and been put off by the gameplay or graphics.",
+      "author": "SpringHeelJon",
+      "maintainers": [
+        "github/SpringHeelJon"
+      ],
+      "game": "Oblivion",
+      "official": false,
+      "tags": [
+        "Nevernude",
+        "Lightweight",
+        "Lore-Friendly",
+        "Vanilla Plus"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "force_down": false,
+      "links": {
+        "image": "https://hosting.photobucket.com/images/l637/Jon_Keatley/logo_main2.png",
+        "readme": "https://www.nexusmods.com/oblivion/mods/53004",
+        "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+        "machineURL": "lastseed",
+        "discordURL": "https://discord.gg/GBVzYjF6"
+      },
+      "download_metadata": { 
+        "Hash": "e1+K7eJbDJw=",
+        "Size": 0,
+        "NumberOfArchives": 14,
+        "SizeOfArchives": 135206078,
+        "NumberOfInstalledFiles": 1311,
+        "SizeOfInstalledFiles": 336453775
+      },
+      "version": "1.0",
+    }
+  ]
