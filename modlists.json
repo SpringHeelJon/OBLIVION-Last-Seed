@@ -1,38 +1,41 @@
 [
-    {
-	"title": "Last Seed",
-	"description": "Last Seed is a mod list that aims to preserve the general feel of the original Oblivion but with much improved graphics and performance. As well as fixing a raft of bugs and balancing the games mechanics. This list is for you if you have never played the game before or have played the vanilla experience and been put off by the gameplay or graphics.",
-	"author": "SpringHeelJon",
-	"maintainers": [
-		"github/SpringHeelJon"
-	],
-	"game": "Oblivion",
-	"official": false,
-	"tags": [
-		"Nevernude",
-		"Lightweight",
-		"Lore-Friendly",
-		"Vanilla Plus"
-	],
-	"nsfw": false,
-	"utility_list": false,
-	"image_contains_title": true,
-	"force_down": false,
-	"links": {
-		"image": "https://hosting.photobucket.com/images/l637/Jon_Keatley/logo_main2.png",
-		"readme": "https://www.nexusmods.com/oblivion/mods/53004",
-		"download": "https://authored-files.wabbajack.org/Last%20Seed.wabbajack_12c3ad1e-b5f3-4112-9f3a-f2323374d759",
-		"machineURL": "lastseed",
-		"discordURL": "https://discord.gg/GBVzYjF6"
-	},
-	"download_metadata": {
-		"Hash":"uGZhzkNZRAs=",
-		"Size":13058837,
-		"NumberOfArchives":389,
-		"SizeOfArchives":13148190561,
-		"NumberOfInstalledFiles":34257,
-		"SizeOfInstalledFiles":19394420207
-	},
-	"version": "1.0"
-}
+  {
+    "title": "Last Seed",
+    "description": "Last Seed is a mod list that aims to preserve the general feel of the original Oblivion but with much improved graphics and performance. As well as fixing a raft of bugs and balancing the games mechanics. This list is for you if you have never played the game before or have played the vanilla experience and been put off by the gameplay or graphics.",
+    "author": "SpringHeelJon",
+    "maintainers": [
+      "github/SpringHeelJon"
+    ],
+    "game": "oblivion",
+    "official": false,
+    "tags": [
+      "Nevernude",
+      "Lightweight",
+      "Lore-Friendly",
+      "Vanilla Plus"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://hosting.photobucket.com/images/l637/Jon_Keatley/logo_main2.png",
+      "readme": "https://www.nexusmods.com/oblivion/mods/53004",
+      "download": "https://authored-files.wabbajack.org/Last Seed.wabbajack_754ffb69-6066-4463-b87e-c35c0142842e",
+      "machineURL": "lastseed",
+      "discordURL": "https://discord.gg/GBVzYjF6"
+    },
+    "download_metadata": {
+      "Hash": "D8As7DgDOZA=",
+      "Size": 13061240,
+      "NumberOfArchives": 391,
+      "SizeOfArchives": 13147749721,
+      "NumberOfInstalledFiles": 34242,
+      "SizeOfInstalledFiles": 19395052357
+    },
+    "version": "1.0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-06-26T18:40:44.4370714Z",
+    "repositoryName": ""
+  }
 ]
