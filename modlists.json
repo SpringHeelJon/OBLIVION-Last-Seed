@@ -21,21 +21,21 @@
     "links": {
       "image": "https://hosting.photobucket.com/images/l637/Jon_Keatley/logo_main2.png",
       "readme": "https://www.nexusmods.com/oblivion/mods/53004",
-      "download": "https://authored-files.wabbajack.org/Last Seed.wabbajack_754ffb69-6066-4463-b87e-c35c0142842e",
+      "download": "https://authored-files.wabbajack.org/Last Seed.wabbajack_ef215222-8e65-4017-8541-9d4c5f338f2b",
       "machineURL": "lastseed",
       "discordURL": "https://discord.gg/GBVzYjF6"
     },
     "download_metadata": {
-      "Hash": "D8As7DgDOZA=",
-      "Size": 13061240,
-      "NumberOfArchives": 391,
-      "SizeOfArchives": 13147749721,
-      "NumberOfInstalledFiles": 34242,
-      "SizeOfInstalledFiles": 19395052357
+      "Hash": "92Ai/B4HLBc=",
+      "Size": 12947172,
+      "NumberOfArchives": 393,
+      "SizeOfArchives": 13147790789,
+      "NumberOfInstalledFiles": 34294,
+      "SizeOfInstalledFiles": 19404316804
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-06-26T18:40:44.4370714Z",
+    "dateUpdated": "2023-07-20T20:16:14.5197638Z",
     "repositoryName": ""
   }
 ]
